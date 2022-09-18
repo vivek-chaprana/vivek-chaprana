@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on [My Portfolio](githu)
+- 🔭 I’m currently working on adding transitions to [My Portfolio.](https://vivekchaprana.netlify.app/)
 
 - 🌱 I’m currently trying to learning **ThreeJS and C++.**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything and everything!**
 
-- 👨‍💻 Take a look at my portfolio. [https://github.com/vivek-chaprana](https://github.com/vivek-chaprana)
+- 👨‍💻 Take a look at my portfolio. [https://vivekchaprana.netlify.app/](https://vivekchaprana.netlify.app/)
 
 - 📫 Reach me through my [Mail](mailto:vivek203ji@outlook.com).
 
@@ -42,7 +42,7 @@
 </div>
 <h3>Other Stuff : </h3>
    <ul>
-        <li> :octocat: <a href="https://github.com/vivek-chaprana">My Resume</a></li>
+        <li> :octocat: <a href="https://vivekchaprana.netlify.app/resume">My Resume</a></li>
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
