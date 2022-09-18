@@ -42,7 +42,7 @@
 </div>
 <h3>Other Stuff : </h3>
    <ul>
-        <li> :octocat: <a href="https://vivekchaprana.netlify.app/">My Resume</a></li>
+        <li> :octocat: <a href="https://vivekchaprana.netlify.app/resume">My Resume</a></li>
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
