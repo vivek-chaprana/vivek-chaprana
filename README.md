@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="">
+
 <h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/vivek-chaprana/">Vivek Chaprana</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 <h4 align="center"> 
 	A front-end developer from Delhi, India and currently pursuing my B.Tech in Computer Science Engineering from Guru Gobind Singh Indraprastha University, Delhi. I take great care in the experience, architecture, and code quality of the things I build.
