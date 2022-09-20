@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on adding transitions to [My Portfolio.](https://vivekchaprana.netlify.app/)
+- 🔭 I’m currently working on **[My Portfolio](https://vivekchaprana.netlify.app/)**.
 
 - 🌱 I’m currently trying to learning **ThreeJS and C++.**
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **anything and everything!**
 
-- 👨‍💻 Take a look at my portfolio : [https://vivekchaprana.netlify.app/ .](https://vivekchaprana.netlify.app/)
+- 👨‍💻 Take a look at my portfolio : **[https://vivekchaprana.netlify.app/](https://vivekchaprana.netlify.app/)**.
 
-- 📫 Reach me through my [Mail](mailto:vivek203ji@outlook.com).
+- 📫 Reach me through my **[Mail](mailto:vivek203ji@outlook.com)**.
 
 <h3>Connect with me : </h3>
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="dancingGithub">
