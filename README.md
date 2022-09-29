@@ -46,7 +46,7 @@
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
-        <p>&nbsp;<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=vivek-chaprana&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /><img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-chaprana&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /></p>
+        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=vivek-chaprana&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-chaprana&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /></p>
     </div>
 
   
