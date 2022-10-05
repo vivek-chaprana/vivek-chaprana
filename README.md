@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Superchat](https://super-chatroom.netlify.app)**.
 
-- 🌱 I’m currently trying to learning **ThreeJS and C++.**
+- 🌱 I’m currently trying to learning **ExpressJS**.
 
 - 👯 I’m looking to collaborate on **any good Web Application.**
 
