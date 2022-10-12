@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on **[Superchat](https://super-chatroom.netlify.app)**.
+- 🔭 I’m currently working on **[MERN](https://github.com/vivek-chaprana/MERN) project**.
 
 - 🌱 I’m currently trying to learning **ExpressJS**.
 
