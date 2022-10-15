@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on **[MERN](https://github.com/vivek-chaprana/MERN) project**.
+- 🔭 I’m currently working on **[Rock Paper Scissor](https://github.com/vivek-chaprana/rock-paper-scissors)** game created using NodeJS.
 
 - 🌱 I’m currently trying to learning **ExpressJS**.
 
