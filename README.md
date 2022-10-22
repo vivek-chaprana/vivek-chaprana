@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Rock Paper Scissor](https://github.com/vivek-chaprana/rock-paper-scissors)** game created using NodeJS.
 
-- 🌱 I’m currently trying to learning **ExpressJS**.
+- 🌱 I’m currently trying to learning **Data Structures & Algorithms**.
 
 - 👯 I’m looking to collaborate on **any good Web Application.**
 
