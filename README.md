@@ -26,7 +26,7 @@
     <li><a href="https://instagram.com/vivekchaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekchaprana" height="30" width="40" />@vivekchaprana</a></li>
     <li><a href="https://codepen.io/vickytooop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vickytooop" height="30" width="40" />@vickytooop</a></li>
     <li><a href="https://codesandbox.com/vicky2op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vicky2op" height="30" width="40" />@vicky2op</a></li>
-    <li><a href="https://www.hackerrank.com/vicky2op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vicky2op" height="30" width="40" />@vicky2op</a></li>
+    <li><a href="https://www.hackerrank.com/vivekchaprana?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vicky2op" height="30" width="40" />@vicky2op</a></li>
 </ul>
 
 <div>
