@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on **[Rock Paper Scissor](https://github.com/vivek-chaprana/rock-paper-scissors)** game created using NodeJS.
+- 🔭 I’m currently working on **[Shoe Store](https://github.com/vivek-chaprana/Shoe-Store)** website created using NextJS 13.
 
 - 🌱 I’m currently trying to learning **Java**.
 
