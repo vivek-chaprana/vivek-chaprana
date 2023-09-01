@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything and everything!**
 
-- 👨‍💻 Take a look at my portfolio : **[https://vivekchaprana.netlify.app/](https://vivekchaprana.netlify.app/)**.
+- 👨‍💻 Take a look at my portfolio : **[https://vivekchaprana.netlify.app/](https://vivekchaprana.vercel.app/)**.
 
 - 📫 Reach me through my **[Mail](mailto:vivek203ji@outlook.com)**.
 
