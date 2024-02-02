@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on **[Shoe Store](https://github.com/vivek-chaprana/Shoe-Store)** website created using NextJS 13.
+- 🔭 I’m currently working on **[Blog Sharing site.](https://github.com/vivek-chaprana/Blogs)** website created using NextJS.
 
 - 🌱 I’m currently trying to learning **Java**.
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything and everything!**
 
-- 👨‍💻 Take a look at my portfolio : **[https://vivekchaprana.netlify.app/](https://vivekchaprana.vercel.app/)**.
+- 👨‍💻 Take a look at my portfolio : **[https://vivekchaprana.vercel.app/](https://vivekchaprana.vercel.app/)**.
 
 - 📫 Reach me through my **[Mail](mailto:vivek203ji@outlook.com)**.
 
