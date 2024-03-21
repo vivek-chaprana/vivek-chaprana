@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Blog Sharing site.](https://github.com/vivek-chaprana/Blogs)** website created using NextJS.
 
-- 🌱 I’m currently trying to learning **Java**.
+- 🌱 I’m currently trying to learning **Data Structures & Algorithms**.
 
 - 👯 I’m looking to collaborate on **any good Web Application.**
 
@@ -24,9 +24,6 @@
     <li><a href="https://twitter.com/vickytooop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickytooop" height="30" width="40" />@Vickytooop</a></li>
     <li><a href="https://linkedin.com/in/vivek-chaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-chaprana" height="30" width="40" />@vivek-chaprana</a></li>
     <li><a href="https://instagram.com/vivekchaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekchaprana" height="30" width="40" />@vivekchaprana</a></li>
-    <li><a href="https://codepen.io/vickytooop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vickytooop" height="30" width="40" />@vickytooop</a></li>
-    <li><a href="https://codesandbox.com/vicky2op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vicky2op" height="30" width="40" />@vicky2op</a></li>
-    <li><a href="https://www.hackerrank.com/vivekchaprana?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vicky2op" height="30" width="40" />@vicky2op</a></li>
 </ul>
 
 <div>
