@@ -40,7 +40,7 @@
 </div>
 <h3>Other Stuff : </h3>
    <ul>
-        <li> :octocat: <a href="https://vivekchaprana.vercel.app/resume">My Resume</a></li>
+        <li> :octocat: <a href="https://drive.google.com/file/d/1gzcMnUpEW6XD6kTvTKaPMIxso-C_XTgP/">My Resume</a></li>
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
