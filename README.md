@@ -6,11 +6,9 @@
 </h4>
 
 
-- 🔭 I’m currently working on **[Blog Sharing site.](https://github.com/vivek-chaprana/Blogs)** website created using NextJS.
+- 🔭 I’m currently working on **[Tetris](https://github.com/vivek-chaprana/tetris)**.
 
-- 🌱 I’m currently trying to learning **Data Structures & Algorithms**.
-
-- 👯 I’m looking to collaborate on **any good Web Application.**
+- 👯 I’m looking to collaborate on **any good project**.
 
 - 💬 Ask me about **anything and everything!**
 
