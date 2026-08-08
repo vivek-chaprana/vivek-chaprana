@@ -6,7 +6,7 @@
 </h4>
 
 
-- 🔭 I’m currently working on **[Tetris](https://github.com/vivek-chaprana/tetris)**.
+- 🔭 I’m currently working on **[Super Torrent](https://github.com/vivek-chaprana/super-torrent)**.
 
 - 👯 I’m looking to collaborate on **any good project**.
 
